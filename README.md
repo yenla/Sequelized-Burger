@@ -1,5 +1,3 @@
-# Sequelized-Burger
-
 # :hamburger: :fries: Sequelized-Burger
 
 ## Summary
